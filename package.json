@@ -2,7 +2,7 @@
   "name": "react-basic",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sunsreng.github.io/react-basic",
+  "homepage": "https://sunsreng.github.io/react-back",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
